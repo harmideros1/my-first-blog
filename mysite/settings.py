@@ -25,7 +25,7 @@ SECRET_KEY = '%m23c3jy7qo70ayl)$^@dcoz@-#gt!u)y*a3%t*sri=rfv-7)b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mammoft.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
